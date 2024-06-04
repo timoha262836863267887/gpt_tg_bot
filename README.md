@@ -1,4 +1,4 @@
-
+<h1>Благодарю создателей репоситория gpt4free от xtekky.</h1>
   <h1>Инструкция по запуску бота</h1>
 
   <h2>На Android (Pydroid)</h2>
@@ -20,8 +20,6 @@
         <li><code>git clone https://github.com/timoha262836863267887/gpt_tg_bot</code></li>
         <li><code>cd gpt_tg_bot</code></li>
         <li><code>python main.py</code></li>
-
-        <li>Благодарю создателей репоситория gpt4free от xtekky.</li>
       </ul>
     </li>
   </ol>
